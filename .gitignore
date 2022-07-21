@@ -1,0 +1,9 @@
+/node_modules
+.idea
+.DS_Store
+.snowpack
+package-lock.json
+/gitflow
+cypress/screenshots
+.eslintcache
+.vscode
