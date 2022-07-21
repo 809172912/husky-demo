@@ -1,1 +1,2 @@
-var a = "asdasd"
+var a = 'asdasd'
+var b = 'asdasd'
