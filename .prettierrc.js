@@ -1,8 +1,8 @@
 // docs: https://prettier.io/docs/en/options.html
 module.exports = {
-  'semi': false,
-  'singleQuote': true,
-  'trailingComma': 'all',
-  'printWidth': 120,
+  semi: false,
+  singleQuote: true,
+  trailingComma: 'all',
+  printWidth: 120,
   // 'arrowParens': 'avoid'
 }
